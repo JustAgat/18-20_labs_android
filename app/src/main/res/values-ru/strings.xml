@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Планировщик задач</string>
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="tasks">Задачи</string>
+    <string name="statistics">Статистика</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="exit">Выход</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="sort_by_date">Сортировать по дате</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="task_title">Заголовок</string>
+    <string name="task_description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="file_operations">Работа с файлами</string>
+    <string name="write_internal">Запись (внутр.)</string>
+    <string name="read_internal">Чтение (внутр.)</string>
+    <string name="write_external">Запись (внеш.)</string>
+    <string name="read_external">Чтение (внеш.)</string>
+    <string name="app_info">Это приложение-планировщик задач с использованием SQLite, Retrofit и SharedPreferences.</string>
+    <string name="total_tasks">Всего задач: %1$d</string>
+    <string name="completed_tasks">Выполнено: %1$d</string>
+    <string name="pending_tasks">В процессе: %1$d</string>
+    <string name="stats_by_date">По дате:</string>
+    <string name="logout">Выйти</string>
+    <string name="back_to_login">Назад к входу</string>
+    <string name="api_tasks">Задачи из API</string>
+</resources>
